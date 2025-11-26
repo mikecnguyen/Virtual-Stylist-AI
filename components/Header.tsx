@@ -11,12 +11,11 @@ export const Header: React.FC = () => {
           </div>
           <div>
             <h1 className="text-2xl font-bold tracking-tight text-stone-900">Virtual Stylist</h1>
-            <p className="text-xs text-stone-500 font-medium tracking-wide uppercase">Powered by Gemini 2.5</p>
           </div>
         </div>
         <div className="hidden md:flex items-center gap-2 text-stone-500 text-sm">
           <Sparkles size={16} />
-          <span>Upload an item & let AI style it</span>
+          <span>Upload an item & let us style it</span>
         </div>
       </div>
     </header>
