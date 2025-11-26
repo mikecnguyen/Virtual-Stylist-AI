@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Stylist AI",
+  "description": "An AI-powered personal stylist that generates complete outfit options from a single clothing item and allows for conversational image editing.",
+  "requestFramePermissions": []
+}
